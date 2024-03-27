@@ -1,6 +1,7 @@
-<!-- Header -->
+![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/a40febb4-c211-4e70-a8dd-b3f4a4a146fd)<!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/header.gif" width="800px">
+  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/fc40cb9b-8f01-46e3-af6f-f764b0ebb6ec)
+" width="800px">
 </p>
 
 # Hello, I'm [Manohar Solanki]! 👋
@@ -9,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about [_software development, machi
 
 <!-- Animated Skills -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/skills.gif" width="600px">
+  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/8f482c54-aa06-4658-80f4-e31524d9253d)
+" width="600px">
 </p>
 
 ## 🔭 What I'm currently working on
@@ -20,7 +22,8 @@ Welcome to my GitHub profile! I'm passionate about [_software development, machi
 
 <!-- Animated Learning -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/learning.gif" width="600px">
+  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/3379ddea-c144-4f02-92eb-7e2be3d68403)
+" width="600px">
 </p>
 
 ## 🌱 What I'm currently learning
@@ -40,12 +43,13 @@ I'm currently focusing on improving my skills in [ Python, JavaScript, React, et
 
 <!-- Animated Stats -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/stats.gif" width="800px">
+  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/24e49603-d9b6-4593-92f8-6ad51bdad21d)
+" width="800px">
 </p>
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=radical)](https://github.com/solankiboy939/github-readme-stats)
 
 <!-- Animated Connect -->
 <p align="center">
