@@ -1,45 +1,56 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/header.gif" width="800px">
+</p>
+
 # Hello, I'm [Manohar Solanki]! 👋
 
-Welcome to my GitHub profile! I'm passionate about [ software development, machine learning, web development, etc.], and I love to explore and contribute to open source projects.
+Welcome to my GitHub profile! I'm passionate about [_software development, machine learning, web development, etc.], and I love to explore and contribute to open source projects.
+
+<!-- Animated Skills -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/skills.gif" width="600px">
+</p>
 
 ## 🔭 What I'm currently working on
 
-- [Project 1]([link](https://github.com/solankiboy939/My_store)): this is my first site of selling store.
-- [Project 2]([link](https://github.com/Manohar-solanki/edudrag)): education resource site fill stack developer.
-- [Project 3]([link](https://github.com/Manohar-solanki/CN127)): Spam Email detection in Machine Learning.
+- [PROJECT 1](https://github.com/solankiboy939/My_store): my selling website using Js and php
+- [PROJECT 2](https://github.com/Manohar-solanki/edudrag): Education resource website.
+- [PROJECT 3](https://github.com/Manohar-solanki/CN127): Spam Email detection in machine learning.
+
+<!-- Animated Learning -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/learning.gif" width="600px">
+</p>
 
 ## 🌱 What I'm currently learning
 
-I'm currently focusing on improving my skills in [mention skills or technologies you're learning, e.g., Python, JavaScript, React, etc.]. Always eager to learn new things and explore emerging technologies!
+I'm currently focusing on improving my skills in [ Python, JavaScript, React, etc.]. Always eager to learn new things and explore emerging technologies!
 
-## 💼 My professional experience
+<!-- Animated Projects -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/projects.gif" width="600px">
+</p>
 
-- **[Company Name](link):** Description of your role and responsibilities.
-- **[Company Name](link):** Description of your role and responsibilities.
-- **[Company Name](link):** Description of your role and responsibilities.
+## 💼 Currently applying for
 
-## 🚀 My projects
+- **[Nvidia](https://www.nvidia.com/en-in/):** AI Engineer.
+- **[Eight Fold](https://eightfold.ai/):** .Everything talent, powered by AI
 
-Here are some of the projects I've worked on:
 
-1. [Project Name](link): Brief description of the project.
-2. [Project Name](link): Brief description of the project.
-3. [Project Name](link): Brief description of the project.
-
-## 📫 How to reach me
-
-- LinkedIn: [https://www.linkedin.com/in/mr-manohar-solanki/](link)
-- Twitter: [Your Twitter Profile](link)
-- Email: SOLANKIMANOHAR2176@GMAIL.COM
-
-## 🌟 Fun facts
-
-- Share some interesting or fun facts about yourself!
-- Maybe something related to your hobbies or passions outside of coding.
+<!-- Animated Stats -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/stats.gif" width="800px">
+</p>
 
 ## 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Animated Connect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/connect.gif" width="600px">
+</p>
 
 ## 🤝🏻 Let's connect and collaborate!
 
