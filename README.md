@@ -1,4 +1,5 @@
-![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/a40febb4-c211-4e70-a8dd-b3f4a4a146fd)<!-- Header -->
+![image](![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/175ea902-a501-4833-9b1f-caa05466dfab)
+)<!-- Header -->
 <p align="center">
   <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/fc40cb9b-8f01-46e3-af6f-f764b0ebb6ec)
 " width="800px">
@@ -6,7 +7,7 @@
 
 # Hello, I'm [Manohar Solanki]! 👋
 
-Welcome to my GitHub profile! I'm passionate about [_software development, machine learning, web development, etc.], and I love to explore and contribute to open source projects.
+Welcome to my GitHub profile! I'm passionate about [software development, machine learning, web development, etc.], and I love to explore and contribute to open source projects.
 
 <!-- Animated Skills -->
 <p align="center">
