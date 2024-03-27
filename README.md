@@ -1,62 +1,32 @@
-![image](![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/175ea902-a501-4833-9b1f-caa05466dfab)
-)<!-- Header -->
-<p align="center">
-  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/fc40cb9b-8f01-46e3-af6f-f764b0ebb6ec)
-" width="800px">
+<h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
+<h3 align="center">A passionate frontend Machine Learningand model and AI Algorith from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankiboy939" alt="solankiboy939" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Edudrag](https://manohar-solanki.github.io/edudrag/)
+
+- 📫 How to reach me **Solankimanohar2176@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manohar solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar solanki" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/manohar solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manohar solanki" height="30" width="40" /></a>
+<a href="https://kaggle.com/manoharsolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manoharsolanki" height="30" width="40" /></a>
+<a href="https://instagram.com/ssolanki_boy939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssolanki_boy939" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/solankimanohar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="solankimanohar21" height="30" width="40" /></a>
 </p>
 
-# Hello, I'm [Manohar Solanki]! 👋
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Welcome to my GitHub profile! I'm passionate about [software development, machine learning, web development, etc.], and I love to explore and contribute to open source projects.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solankiboy939&show_icons=true&locale=en&layout=compact" alt="solankiboy939" /></p>
 
-<!-- Animated Skills -->
-<p align="center">
-  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/8f482c54-aa06-4658-80f4-e31524d9253d)
-" width="600px">
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&locale=en" alt="solankiboy939" /></p>
 
-## 🔭 What I'm currently working on
-
-- [PROJECT 1](https://github.com/solankiboy939/My_store): my selling website using Js and php
-- [PROJECT 2](https://github.com/Manohar-solanki/edudrag): Education resource website.
-- [PROJECT 3](https://github.com/Manohar-solanki/CN127): Spam Email detection in machine learning.
-
-<!-- Animated Learning -->
-<p align="center">
-  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/3379ddea-c144-4f02-92eb-7e2be3d68403)
-" width="600px">
-</p>
-
-## 🌱 What I'm currently learning
-
-I'm currently focusing on improving my skills in [ Python, JavaScript, React, etc.]. Always eager to learn new things and explore emerging technologies!
-
-<!-- Animated Projects -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/projects.gif" width="600px">
-</p>
-
-## 💼 Currently applying for
-
-- **[Nvidia](https://www.nvidia.com/en-in/):** AI Engineer.
-- **[Eight Fold](https://eightfold.ai/):** .Everything talent, powered by AI
-
-
-<!-- Animated Stats -->
-<p align="center">
-  <img src="![image](https://github.com/solankiboy939/solankiboy939/assets/119101769/24e49603-d9b6-4593-92f8-6ad51bdad21d)
-" width="800px">
-</p>
-
-## 📊 GitHub Stats
-
-[![Solanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=radical)](https://github.com/solankiboy939/github-readme-stats)
-
-<!-- Animated Connect -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/solankiboy939/solankiboy939/main/assets/connect.gif" width="600px">
-</p>
-
-## 🤝🏻 Let's connect and collaborate!
-
-Feel free to reach out if you're interested in collaborating on any projects or just want to connect. Looking forward to meeting new people and building awesome things together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&" alt="solankiboy939" /></p>
