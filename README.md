@@ -74,38 +74,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939" alt="GitHub Streak Stats"/>
 </p>
-
-<!-- CSS Animations -->
-<style>
-  @keyframes heartbeat {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-  }
-
-  @keyframes pulse {
-    0% { color: black; }
-    50% { color: red; }
-    100% { color: black; }
-  }
-
-  @keyframes bounce {
-    0% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0); }
-  }
-
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  @keyframes shake {
-    0% { transform: rotate(0); }
-    20% { transform: rotate(10deg); }
-    40% { transform: rotate(-10deg); }
-    60% { transform: rotate(10deg); }
-    80% { transform: rotate(-10deg); }
-    100% { transform: rotate(0); }
-  }
-</style>
