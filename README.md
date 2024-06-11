@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learningand model and AI Algorithm</h3>
 
-![](https://th.bing.com/th/id/R.79397c9959948c605bb80482542ef08f?rik=ZtHgntcH3KNXKQ&riu=http%3a%2f%2fwww.arabnews.com%2fsites%2fdefault%2ffiles%2f2018%2f11%2f11%2f1365101-921132596.gif&ehk=zbYnAvizEuhZkHcUXmzstiMt8cYk6%2f8SzCmNTHucuEo%3d&risl=&pid=ImgRaw&r=0)
+![](https://media2.giphy.com/media/gAVUaC0JZInb9twQX5/200w.gif?cid=6c09b952274a8ab2hcesr7e596v0qumznemh4s7lyr8dizh5&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
