@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learningand model and AI Algorithm</h3>
 
-![](https://cdn.pixabay.com/animation/2023/05/02/15/28/15-28-22-399_512.gif)
+![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
