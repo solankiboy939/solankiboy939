@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learningand model and AI Algorithm</h3>
 
-![](https://media2.giphy.com/media/gAVUaC0JZInb9twQX5/200w.gif?cid=6c09b952274a8ab2hcesr7e596v0qumznemh4s7lyr8dizh5&ep=v1_gifs_search&rid=200w.gif&ct=g)
-![](https://www.the-waves.org/wp-content/uploads/2020/08/waves.gif)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVetvz_skuXk2C7F2n4CPRZpDJFxkzL_JbYw&s)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
