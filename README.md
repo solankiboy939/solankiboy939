@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **Solankimanohar2176@gmail.com**
 
-- ⚡ Fun fact **I prefer dark mode Because light attracts bugs!**
-- 🎶 Favorite Beat **Algo-rhythm**
+- ⚡ Fun fact: **I prefer dark mode Because light attracts bugs!**
+- 🎶 Favorite Beat: **Algo-rhythm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
