@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
-<h3 align="center">A passionate Machine Learning and model and AI Algorithm</h3>
+<h3 align="center">A passionate Machine Learning Model and AI Algorithm</h3>
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
 
