@@ -1,5 +1,4 @@
-<h1 align="center">Hi ![SvtszoneJeonghanGIF](https://github.com/user-attachments/assets/666c5a49-4486-439c-9872-c9e4b04f33b7)
- 👋, I'm MANOHAR SOLANKI</h1>
+<h1 align="center">Hi <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119101769/348957278-666c5a49-4486-439c-9872-c9e4b04f33b7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240716T055516Z&X-Amz-Expires=300&X-Amz-Signature=e74018a3b58de0dd9401a848a5e794f793c7e7e4f6335d34af04115b8c35e0ac&X-Amz-SignedHeaders=host&actor_id=119101769&key_id=0&repo_id=778118233" alt="hello" width="5" height="6"> 👋, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learning Model and AI Algorithm</h3>
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
