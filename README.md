@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm MANOHAR SOLANKI</h1>
+<h1 align="center">Hi ![SvtszoneJeonghanGIF](https://github.com/user-attachments/assets/00ce431e-9b07-4281-a6a5-77b6284e02fe)
+![HappyDoggoGIF](https://github.com/user-attachments/assets/d9642a6f-9f31-41dd-8a73-986b211c2feb)
+👋, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learning Model and AI Algorithm</h3>
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
