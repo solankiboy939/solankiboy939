@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fhii-hand-care-symbol-motion-design-vector-31999320&psig=AOvVaw2p9Gk8dWqc8axWCD44WX8c&ust=1726381551518000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOid5eTmwYgDFQAAAAAdAAAAABAE"width="25" height="28">, I'm MANOHAR SOLANKI</h1>
+<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm MANOHAR SOLANKI</h1>
 <h3 align="center">A passionate Machine Learning Model and AI Algorithm</h3>
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
