@@ -18,7 +18,7 @@
 - ⚡ Fun fact: **I prefer dark mode Because light attracts bugs!**
 - 🎶 Favorite Beat: **Algo-rhythm**
 - ☕ If you're generous enough you can always buy me a coffee from [Here](https://buymeacoffee.com/manohar_solanki)
-- 📖 if you're like to read a interesting article the you should go [Here](https://medium.com/@solankimanohar2176)
+- 📖 if you're like to read a interesting article then you should go [Here](https://medium.com/@solankimanohar2176)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
