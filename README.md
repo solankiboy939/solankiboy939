@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🧾 My Resume Profile [Profile](https://manoharsolanki.netlify.app/)
+- 🧾 My Resume Profile [Profile](https://solankimanohar.netlify.app/)
 - 🔭 I’m currently working on [Edudrag](https://manohar-solanki.github.io/edudrag/)
 
 - 📫 How to reach me **Solankimanohar2176@gmail.com**
