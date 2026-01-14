@@ -45,7 +45,7 @@ me.say_hi()
 - 🌙 I prefer dark mode because **light attracts bugs!** 🐛
 - ☕ Support my work: **[Buy Me a Coffee](https://buymeacoffee.com/manohar_solanki)**
 - 📝 Read my thoughts: **[Medium Blog](https://medium.com/@solankimanohar2176)**
-- 🌐 Portfolio: **[solankimanohar.netlify.app](https://solankimanohar.netlify.app/)**
+- 🌐 Portfolio: **[solankimanohar.netlify.app](https://manoharsolanki.tharurja.com/#home)**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
