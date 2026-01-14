@@ -1,40 +1,102 @@
-<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm MANOHAR SOLANKI</h1>
-<h3 align="center">A passionate Machine Learning Model and AI Algorithm</h3>
+#  Hi, I'm **MANOHAR SOLANKI**
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
+<div align="center">
 
+###  Machine Learning & AI Algorithm Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat" alt="solankiboy939" /> </p>
+![AI Animation](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankiboy939" alt="solankiboy939" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20views&color=0e75b6&style=flat)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=solankiboy939)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🧾 My Resume Profile [Profile](https://solankimanohar.netlify.app/)
-- 🔭 I’m currently working on [Edudrag](https://manohar-solanki.github.io/edudrag/)
+---
 
-- 📫 How to reach me **Solankimanohar2176@gmail.com**
+##  About Me
 
-- ⚡ Fun fact: **I prefer dark mode Because light attracts bugs!**
-- 🎶 Favorite Beat: **Algo-rhythm**
-- ☕ If you're generous enough you can always buy me a coffee from [Here](https://buymeacoffee.com/manohar_solanki)
-- 📖 if you're like to read a interesting article then you should go [Here](https://medium.com/@solankimanohar2176)
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mr-manohar-solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar solanki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/manohar solanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manohar solanki" height="30" width="40" /></a>
-<a href="https://kaggle.com/manoharsolanki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manoharsolanki" height="30" width="40" /></a>
-<a href="https://instagram.com/solanki_boy939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssolanki_boy939" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/solankimanohar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="solankimanohar21" height="30" width="40" /></a>
-</p>
+|  | Details |
+|---|---|
+|  | **Portfolio:** [My Resume Profile](https://solankimanohar.netlify.app/) |
+|  | **Current Project:** [Edudrag](https://manohar-solanki.github.io/edudrag/) |
+|  | **Email:** Solankimanohar2176@gmail.com |
+|  | **Fun Fact:** I prefer dark mode because light attracts bugs! |
+|  | **Favorite Beat:** Algo-rhythm |
+|  | **Buy Me Coffee:** [Support Me](https://buymeacoffee.com/manohar_solanki) |
+|  | **Articles:** [Medium Blog](https://medium.com/@solankimanohar2176) |
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+##  Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solankiboy939&show_icons=true&locale=en&layout=compact" alt="solankiboy939" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&locale=en" alt="solankiboy939" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-manohar-solanki)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/manohar-solanki)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://kaggle.com/manoharsolanki)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solanki_boy939)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/solankimanohar21)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&" alt="solankiboy939" /></p>
+</div>
+
+---
+
+##  Languages & Tools
+
+###  Programming Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+
+</div>
+
+###  AI/ML & Data Science
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+
+</div>
+
+###  Databases & Cloud
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
+
+</div>
+
+---
+
+##  GitHub Statistics
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=solankiboy939&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&locale=en&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=solankiboy939&theme=radical)](https://github-readme-streak-stats.herokuapp.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+###  If you like my work, consider giving it a star!
+
+**Made with  by Manohar Solanki**
+
+</div>
