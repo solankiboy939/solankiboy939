@@ -7,17 +7,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <div align="center">
-  <a href="https://github.com/solankiboy939">
-    <img src="https://komarev.com/ghpvc/?username=solankiboy939&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/solankimanohar">
+    <img src="https://komarev.com/ghpvc/?username=solankimanohar&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/solankiboy939?tab=followers">
-    <img src="https://img.shields.io/github/followers/solankiboy939?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
+  <a href="https://github.com/solankimanohar?tab=followers">
+    <img src="https://img.shields.io/github/followers/solankimanohar?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub followers"/>
   </a>
-  <a href="https://github.com/solankiboy939">
-    <img src="https://api.visitorbadge.io/api/visitors?path=solankiboy939&label=Total%20Visitors&labelColor=%23697689&countColor=%2337d67a&style=for-the-badge" alt="Visitors"/>
+  <a href="https://github.com/solankimanohar">
+    <img src="https://api.visitorbadge.io/api/visitors?path=solankimanohar&label=Total%20Visitors&labelColor=%23697689&countColor=%2337d67a&style=for-the-badge" alt="Visitors"/>
   </a>
-  <a href="https://github.com/solankiboy939">
-    <img src="https://img.shields.io/github/stars/solankiboy939?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars"/>
+  <a href="https://github.com/solankimanohar">
+    <img src="https://img.shields.io/github/stars/solankimanohar?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub stars"/>
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 ```python
 class ManoharSolanki:
     def __init__(self):
-        self.username = "solankiboy939"
+        self.username = "solankimanohar"
         self.name = "Manohar Solanki"
         self.role = "ML Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
@@ -71,7 +71,7 @@ print(me.get_current_status())
 <td>
 
 **🔭 Current Project**
-- **[Synapta](https://github.com/solankiboy939/Synapta)** - The Adaptive Nervous System for Aircraft Structural Integrity
+- **[Synapta](https://github.com/solankimanohar/Synapta)** - The Adaptive Nervous System for Aircraft Structural Integrity
 
 **🌱 Learning Journey**
 - Advanced Machine Learning & Deep Learning Architectures
@@ -270,26 +270,26 @@ print(me.get_current_status())
 <table>
 <tr>
 <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=solankiboy939&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=solankimanohar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF"/>
 </td>
 <td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankiboy939&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankimanohar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF"/>
 </td>
 </tr>
 </table>
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solankiboy939&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=solankimanohar&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ### 📊 Detailed Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=solankiboy939&custom_title=Manohar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=solankimanohar&custom_title=Manohar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 ### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=solankiboy939&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=solankimanohar&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 
 ### 📊 Contribution Calendar
-<img src="https://ghchart.rshah.org/5BCDEC/solankiboy939" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/5BCDEC/solankimanohar" alt="GitHub Contribution Chart" width="100%"/>
 
 ### 💻 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -348,7 +348,7 @@ print(me.get_current_status())
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Synapta](https://github.com/solankiboy939/Synapta)** | The Adaptive Nervous System for Aircraft Structural Integrity | React, Node.js, AI/ML | 🚀 Active |
+| **[Synapta](https://github.com/solankimanohar/Synapta)** | The Adaptive Nervous System for Aircraft Structural Integrity | React, Node.js, AI/ML | 🚀 Active |
 | **AI Chatbot** | Intelligent conversational AI | Python, TensorFlow, NLP | 🔄 In Progress |
 | **Data Analytics Dashboard** | Real-time data visualization | Python, Streamlit, Plotly | ✅ Completed |
 | **ML Model Deployment** | Cloud-based ML solutions | AWS, Docker, Flask | 🔄 In Progress |
@@ -416,7 +416,7 @@ print(me.get_current_status())
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/solankiboy939">
+<a href="https://github.com/solankimanohar">
 <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors"/>
 <br><sub><b>💖 Become a sponsor</b></sub>
 </a>
@@ -452,31 +452,31 @@ print(me.get_current_status())
 
 **My coding journey visualized**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solankiboy939&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manohar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solankimanohar&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/solankimanohar/github-readme-activity-graph)
 
 ### 📊 Contribution Heatmap
-<img src="https://ghchart.rshah.org/5BCDEC/solankiboy939" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/5BCDEC/solankimanohar" alt="GitHub Contribution Chart" width="100%"/>
 
 ### 🎯 Coding Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solankiboy939&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solankimanohar&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 <table>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solankiboy939&theme=tokyonight" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=solankimanohar&theme=tokyonight" alt="Repos per Language"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solankiboy939&theme=tokyonight" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solankimanohar&theme=tokyonight" alt="Most Commit Language"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solankiboy939&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=solankimanohar&theme=tokyonight" alt="Stats"/>
 </td>
 <td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solankiboy939&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solankimanohar&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </td>
 </tr>
 </table>
@@ -498,13 +498,13 @@ print(me.get_current_status())
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/github/repo-size/solankiboy939/solankiboy939?style=for-the-badge&logo=github&color=blue" alt="Repo Size"/>
+<img src="https://img.shields.io/github/repo-size/solankimanohar/solankimanohar?style=for-the-badge&logo=github&color=blue" alt="Repo Size"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/last-commit/solankiboy939/solankiboy939?style=for-the-badge&logo=github&color=green" alt="Last Updated"/>
+<img src="https://img.shields.io/github/last-commit/solankimanohar/solankimanohar?style=for-the-badge&logo=github&color=green" alt="Last Updated"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/commit-activity/m/solankiboy939/solankiboy939?style=for-the-badge&logo=github&color=orange" alt="Commit Activity"/>
+<img src="https://img.shields.io/github/commit-activity/m/solankimanohar/solankimanohar?style=for-the-badge&logo=github&color=orange" alt="Commit Activity"/>
 </td>
 </tr>
 </table>
